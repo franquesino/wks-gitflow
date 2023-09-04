@@ -1,7 +1,6 @@
 function laCajaDePandora(numero){
     // proximamente escribiremos codigo aqui
 
-    console.log(franco)
-
+    console.log(amaranta)
 
     }
